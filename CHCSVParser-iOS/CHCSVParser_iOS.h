@@ -14,7 +14,7 @@ FOUNDATION_EXPORT double CHCSVParser_iOSVersionNumber;
 //! Project version string for CHCSVParser-iOS.
 FOUNDATION_EXPORT const unsigned char CHCSVParser_iOSVersionString[];
 
-#import <CHCSVParser_iOS/CHCSVParser.h>
+#import "CHCSVParser.h"
 
 // In this header, you should import all the public headers of your framework using statements like #import <CHCSVParser_iOS/PublicHeader.h>
 
